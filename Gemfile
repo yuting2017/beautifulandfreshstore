@@ -31,6 +31,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'font-awesome-rails'
+gem 'carrierwave'
+gem 'mini_magick'
 gem 'simple_form'
 gem 'devise'
 gem 'bootstrap-sass'
